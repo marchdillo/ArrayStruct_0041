@@ -19,4 +19,13 @@ int main()
         // cara menulis atau mengisi array
     dataku[2] = 600;
     cout << "Data ke - 3 yang baru : " << dataku[2] << endl;
+
+    // Tampilkan array datamu satu per satu
+    cout << "Data ke - 1 : " << datamu[0] << endl;
+    cout << "Data ke - 2 : " << datamu[1] << endl;
+    cout << "Data ke - 3 : " << datamu[2] << endl;
+    cout << "Data ke - 4 : " << datamu[3] << endl;
+    cout << "Data ke - 5 : " << datamu[4] << endl;
+
+    cout << endl;
 }
